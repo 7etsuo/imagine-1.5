@@ -8,7 +8,7 @@ Each shot is a live Fusion composition: 2x upscaled frames, per-frame depth maps
 
 Music: Kenji Kawai, "Making of Cyborg" (Ghost in the Shell, 1995). Personal project.
 
-The seven original clips are the `grok-*.mp4` files. The edit is `seven_shells.mp4`.
+The seven original clips are the `grok-*.mp4` files. `generated/` holds seven more made with Imagine Video 1.5 from locked first frames of the originals: five sleeping shells that keep their eyes shut for a full 10 seconds, a held gaze with one blink, and a slow turn into the light. They let the sleeping act and the finale run at native speed; everything slowed gets RIFE in-betweens, so the character updates at 24 fps throughout. The edit is `seven_shells.mp4`.
 
 ## Earlier version: Afterimage
 
